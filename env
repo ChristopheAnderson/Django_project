@@ -1,0 +1,4 @@
+$env:DATABASE_URL="postgresql://web_christophe_user:JwZhgud9Oddz9eyRuf4MjB5KVhOZn2C3@dpg-cuia2u2n91rc73bgv5fg-a.oregon-postgres.render.com/web_christophe"
+
+
+pip install psycopg2 --user
